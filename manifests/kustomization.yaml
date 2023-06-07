@@ -7,5 +7,5 @@ resources:
 namespace: nodejs
 images:
 - name: aks-nodejs-argocd
-  newName: yemiwebby/aks-nodejs-argocd
-  newTag: ce22bfc7583072f3fc6ad026457b0ae3d3df5f57
+  newName: faizanmomin2508/aks-nodejs-argocd
+  newTag: 5fa3e36227ac4a39d50202f7d8400636be8ea806
